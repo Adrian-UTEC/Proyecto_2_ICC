@@ -28,7 +28,7 @@ lienzoNuevo = lienzo(82,42)
 opcion = 10
 while opcion != 0:
 
-    menu = "\n\n" \
+    menu = "\nMENU\n" \
            "1. Agregar una linea\n" \
            "2. Agregar una elipse o circulo\n" \
            "3. Agregar un rectangulo o un cuadrado\n" \
